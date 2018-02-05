@@ -1,0 +1,4 @@
+graph graph_name {
+1 -- 2;
+3 -- 4;
+}

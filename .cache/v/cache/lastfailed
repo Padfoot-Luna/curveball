@@ -1,0 +1,8 @@
+{
+  "tests/stats/bipartite/test_run_trade_as_thread.py": true,
+  "tests/unit/curveball/classical/test_run_slice_adjmap_thread.py::TestCurveballClassical::test_fixed_point": true,
+  "tests/unit/curveball/classical/test_run_trade_as_thread.py::TestCurveballClassical::test_single_step": true,
+  "tests/utilities/test_load_save_data.py::MyTestCase::test_save_adjacency_map": true,
+  "tests/utilities/test_load_save_data.py::MyTestCase::test_save_csv_list": true,
+  "tests/utilities/test_networkx_utilities.py": true
+}
